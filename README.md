@@ -1,8 +1,3 @@
-# CasterCom----A-Gaming-Community-App
-
-<p align="center">
-<img src="1725127978723.jpeg" alt="CasterCom App Screenshot" />
-</p>
 
 
 # CasterCom - A Gaming Community App
@@ -10,6 +5,11 @@
 The esports world is booming, but gamers can't find tournaments and orgs can't find talent. CasterCom bridges this gap. Our platform offers a complete tournament calendar and lets gamers showcase achievements on public profiles, connecting the next generation of superstars with organizations looking to recruit. CasterCom A gaming community app which helps gamers to connect and find team mates and to share their achievement.
 
 Note: This project was developed as part of the iOS Student Development Program, an initiative by Apple, powered by Infosys, at Galgotias University.
+
+<p align="center">
+<img src="1725127978723.jpeg" alt="CasterCom App Screenshot" />
+</p>
+
 
 
 ## 📖 Description
