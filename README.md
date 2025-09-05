@@ -11,7 +11,7 @@ The global gaming and esports market is expanding rapidly, but this growth has c
 CasterCom is the definitive solution. It's a community-driven platform built to bridge this gap. We provide a comprehensive, up-to-date calendar of gaming events and tournaments, ensuring players never miss an opportunity. Furthermore, CasterCom empowers gamers to build their personal brand by showcasing their achievements on a public profile, creating a direct channel for esports organizations to discover and recruit the next generation of gaming superstars.
 
 <p align="center">
-<img src="./assets/castercom-screenshot.jpeg" alt="CasterCom App Screenshot" width="350"/>
+<img src="1725127978723.jpeg" alt="CasterCom App Screenshot" />
 </p>
 
 ✨ Features
